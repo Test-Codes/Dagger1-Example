@@ -4,6 +4,7 @@
 
     <application
         android:allowBackup="true"
+        android:name=".BaseApplication"
         android:icon="@mipmap/ic_launcher"
         android:label="Dagger1 Example"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
